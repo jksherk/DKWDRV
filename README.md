@@ -32,7 +32,7 @@ DKWDRV游戏 示例
 
 --------------4DKWDRV方法-------------------
 
-1：从这里下载最新版DKWDRV.elf，https://github.com/DKWDRV/DKWDRV/releases，下载完成后拷贝到PS2记忆卡
+1：从这里下载最新版DKWDRV.elf，下载完成后拷贝到PS2记忆卡，https://github.com/DKWDRV/DKWDRV/releases
 
 2：准备一个fat32格式的U盘，格式化，U盘建立文件夹 - 示例 
 
